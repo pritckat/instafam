@@ -22,3 +22,18 @@ span {
   height: 40px;
   width: 15%;
 }
+.accordion *{
+  background: #222222;
+  font-family: "Itim", cursive;
+  color: white;
+}
+
+.accordion .card-header, .card-header *{
+  background: #fff59e;
+  color: #222222;
+  font-size: 1.2em;
+}
+.accordion input, .accordion textarea {
+  background: white;
+  color: #222222;
+}
